@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Karthik Konyala</h1>
 💫 About Me:
-🔭 I’m currently working on Deep learning models, Mern stack.<br>🌱 I’m currently learning Mern Stack, and ANN models.<br>💬 Ask me about NodeJS, MongoDB, ReactJs, and Machine learning.
+ I am an undergraduate from IIIT Sricity,Deeper knowledge across various domains such as Machine learning, Web development, Data Science.<br>🌱 I’m currently learning Mern Stack, and ANN models.<br>💬 Ask me about NodeJS, MongoDB, ReactJs, and Machine learning.
 <img align ="right" alt="Coding" width="400" src="https://media.tenor.com/-UygBh3nnfEAAAAC/coding.gif">
 
 ## 🌐 Socials:
