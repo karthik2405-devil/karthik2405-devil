@@ -1,10 +1,9 @@
 <h1 align="center">Hi 👋, I'm Karthik Konyala</h1>
 💫 About Me:
- 👨‍🎓 I am currently pursuing a master's in computer science at Texas Tech University.
-🎓 I hold an undergraduate degree from IIIT Sricity with a strong foundation in various domains, including Machine Learning, Web Development, and Data Science.
-🌱 Currently, I am enhancing my skills by learning the MERN Stack for web development and exploring Artificial Neural Network (ANN) models.
-💬 Feel free to ask me about Node.js, MongoDB, React.js, and Machine Learning. I'm passionate about these subjects and always eager to discuss and share knowledge.
-<img align ="right" alt="Coding" width="400" src="https://media.tenor.com/-UygBh3nnfEAAAAC/coding.gif">
+👨‍💻 I'm a master's student in computer science at Texas Tech University with a strong foundation in Python, JavaScript, and backend development.
+🔧 Currently focused on building scalable applications using FastAPI, Docker, and PostgreSQL.
+🌟 Experienced in creating RESTful APIs, deploying web apps, and enhancing performance with advanced techniques.
+🚀 Passionate about full-stack development and always eager to tackle challenging projects!<img align ="right" alt="Coding" width="400" src="https://media.tenor.com/-UygBh3nnfEAAAAC/coding.gif">
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karthik-konyala-a21aa51b4/)[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/karthik_konyala)
