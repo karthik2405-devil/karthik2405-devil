@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Karthik Konyala</h1>
 💫 About Me:
+
 👨‍💻 I'm a master's student in computer science at Texas Tech University with a strong foundation in Python, JavaScript, and backend development.
 🔧 Currently focused on building scalable applications using FastAPI, Docker, and PostgreSQL.
 🌟 Experienced in creating RESTful APIs, deploying web apps, and enhancing performance with advanced techniques.
